@@ -1,0 +1,63 @@
+[0.437s] Invoking command in '/home/arms/ros2_ws/src/learning_tf2_py': CMAKE_PREFIX_PATH=/home/arms/ros2_ws/install/turtlesim:/home/arms/ros2_ws/install/yolov8_msgs:/home/arms/ros2_ws/install/yolobot_recognition:/home/arms/ros2_ws/install/yolobot_gazebo:/home/arms/ros2_ws/install/yolobot_description:/home/arms/ros2_ws/install/yolobot_control:/home/arms/ros2_ws/install/my_interfaces:/home/arms/ros2_ws/install/action_tutorials_interfaces:/home/arms/turtlebot3_ws/install/turtlebot3_simulations:/home/arms/turtlebot3_ws/install/turtlebot3_gazebo:/home/arms/turtlebot3_ws/install/turtlebot3_fake_node:/home/arms/install/turtlesim:/home/arms/install/my_interfaces LD_LIBRARY_PATH=/home/arms/ros2_ws/install/turtlesim/lib:/home/arms/ros2_ws/install/yolov8_msgs/lib:/home/arms/ros2_ws/install/my_interfaces/lib:/home/arms/ros2_ws/install/action_tutorials_interfaces/lib:/home/arms/install/turtlesim/lib:/home/arms/install/my_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/arms/ros2_ws/build/learning_tf2_py/prefix_override:/home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf2_py build --build-base /home/arms/ros2_ws/build/learning_tf2_py/build install --record /home/arms/ros2_ws/build/learning_tf2_py/install.log --single-version-externally-managed
+[0.571s] running egg_info
+[0.571s] creating ../../build/learning_tf2_py/learning_tf2_py.egg-info
+[0.571s] writing ../../build/learning_tf2_py/learning_tf2_py.egg-info/PKG-INFO
+[0.572s] writing dependency_links to ../../build/learning_tf2_py/learning_tf2_py.egg-info/dependency_links.txt
+[0.572s] writing entry points to ../../build/learning_tf2_py/learning_tf2_py.egg-info/entry_points.txt
+[0.572s] writing requirements to ../../build/learning_tf2_py/learning_tf2_py.egg-info/requires.txt
+[0.572s] writing top-level names to ../../build/learning_tf2_py/learning_tf2_py.egg-info/top_level.txt
+[0.572s] writing manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.573s] reading manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.573s] writing manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.573s] running build
+[0.573s] running build_py
+[0.573s] creating /home/arms/ros2_ws/build/learning_tf2_py/build
+[0.573s] creating /home/arms/ros2_ws/build/learning_tf2_py/build/lib
+[0.573s] creating /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.573s] copying learning_tf2_py/turtle_tf2_listener.py -> /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.583s] copying learning_tf2_py/q4_turtle_tf2_broadcaster.py -> /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.583s] copying learning_tf2_py/__init__.py -> /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.583s] copying learning_tf2_py/turtle_tf2_constant_dist (copy).py -> /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.583s] copying learning_tf2_py/static_turtle_tf2_broadcaster.py -> /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.583s] copying learning_tf2_py/turtle_tf2_constant_dist.py -> /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.583s] copying learning_tf2_py/turtle_tf2_broadcaster.py -> /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.583s] copying learning_tf2_py/turtle_tf2_controller.py -> /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.583s] running install
+[0.583s] running install_lib
+[0.584s] creating /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] copying /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_listener.py -> /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] copying /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/q4_turtle_tf2_broadcaster.py -> /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] copying /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/__init__.py -> /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] copying /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_constant_dist (copy).py -> /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] copying /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/static_turtle_tf2_broadcaster.py -> /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] copying /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_constant_dist.py -> /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] copying /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_broadcaster.py -> /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] copying /home/arms/ros2_ws/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_controller.py -> /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.584s] byte-compiling /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_listener.py to turtle_tf2_listener.cpython-310.pyc
+[0.585s] byte-compiling /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/q4_turtle_tf2_broadcaster.py to q4_turtle_tf2_broadcaster.cpython-310.pyc
+[0.585s] byte-compiling /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/__init__.py to __init__.cpython-310.pyc
+[0.585s] byte-compiling /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_constant_dist (copy).py to turtle_tf2_constant_dist (copy).cpython-310.pyc
+[0.585s] byte-compiling /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/static_turtle_tf2_broadcaster.py to static_turtle_tf2_broadcaster.cpython-310.pyc
+[0.586s] byte-compiling /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_constant_dist.py to turtle_tf2_constant_dist.cpython-310.pyc
+[0.586s] byte-compiling /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_broadcaster.py to turtle_tf2_broadcaster.cpython-310.pyc
+[0.586s] byte-compiling /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_controller.py to turtle_tf2_controller.cpython-310.pyc
+[0.587s] running install_data
+[0.587s] creating /home/arms/ros2_ws/install/learning_tf2_py/share/ament_index
+[0.587s] creating /home/arms/ros2_ws/install/learning_tf2_py/share/ament_index/resource_index
+[0.587s] creating /home/arms/ros2_ws/install/learning_tf2_py/share/ament_index/resource_index/packages
+[0.587s] copying resource/learning_tf2_py -> /home/arms/ros2_ws/install/learning_tf2_py/share/ament_index/resource_index/packages
+[0.587s] copying package.xml -> /home/arms/ros2_ws/install/learning_tf2_py/share/learning_tf2_py
+[0.587s] creating /home/arms/ros2_ws/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.587s] copying launch/turtle_tf2_constant_dist.launch.py -> /home/arms/ros2_ws/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.587s] copying launch/test_static_transform.launch.py -> /home/arms/ros2_ws/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.587s] copying launch/turtle_tf2_demo.launch.py -> /home/arms/ros2_ws/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.587s] running install_egg_info
+[0.588s] Copying ../../build/learning_tf2_py/learning_tf2_py.egg-info to /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py-0.0.0-py3.10.egg-info
+[0.589s] running install_scripts
+[0.600s] Installing static_turtle_tf2_broadcaster script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.600s] Installing turtle_tf2_broadcaster script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.600s] Installing turtle_tf2_constant_dist script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.600s] Installing turtle_tf2_controller script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.600s] Installing turtle_tf2_listener script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.600s] writing list of installed files to '/home/arms/ros2_ws/build/learning_tf2_py/install.log'
+[0.613s] Invoked command in '/home/arms/ros2_ws/src/learning_tf2_py' returned '0': CMAKE_PREFIX_PATH=/home/arms/ros2_ws/install/turtlesim:/home/arms/ros2_ws/install/yolov8_msgs:/home/arms/ros2_ws/install/yolobot_recognition:/home/arms/ros2_ws/install/yolobot_gazebo:/home/arms/ros2_ws/install/yolobot_description:/home/arms/ros2_ws/install/yolobot_control:/home/arms/ros2_ws/install/my_interfaces:/home/arms/ros2_ws/install/action_tutorials_interfaces:/home/arms/turtlebot3_ws/install/turtlebot3_simulations:/home/arms/turtlebot3_ws/install/turtlebot3_gazebo:/home/arms/turtlebot3_ws/install/turtlebot3_fake_node:/home/arms/install/turtlesim:/home/arms/install/my_interfaces LD_LIBRARY_PATH=/home/arms/ros2_ws/install/turtlesim/lib:/home/arms/ros2_ws/install/yolov8_msgs/lib:/home/arms/ros2_ws/install/my_interfaces/lib:/home/arms/ros2_ws/install/action_tutorials_interfaces/lib:/home/arms/install/turtlesim/lib:/home/arms/install/my_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/arms/ros2_ws/build/learning_tf2_py/prefix_override:/home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf2_py build --build-base /home/arms/ros2_ws/build/learning_tf2_py/build install --record /home/arms/ros2_ws/build/learning_tf2_py/install.log --single-version-externally-managed

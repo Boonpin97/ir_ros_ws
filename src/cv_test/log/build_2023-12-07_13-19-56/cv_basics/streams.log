@@ -1,0 +1,40 @@
+[0.694s] Invoking command in '/home/jonathantio/cv_test/src/cv_basics': PYTHONPATH=/home/jonathantio/cv_test/build/cv_basics/prefix_override:/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/jonathantio/cv_test/build/cv_basics/build install --record /home/jonathantio/cv_test/build/cv_basics/install.log --single-version-externally-managed
+[0.888s] running egg_info
+[0.900s] writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO
+[0.900s] writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt
+[0.900s] writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt
+[0.900s] writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt
+[0.900s] writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt
+[0.924s] reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[0.925s] writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[0.925s] running build
+[0.925s] running build_py
+[0.925s] copying cv_basics/webcam_sub.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics
+[0.926s] copying cv_basics/webcam_pub.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics
+[0.926s] copying cv_basics/__init__.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics
+[0.926s] running install
+[0.926s] /home/jonathantio/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.926s] !!
+[0.927s] 
+[0.927s]         ********************************************************************************
+[0.927s]         Please avoid running ``setup.py`` directly.
+[0.927s]         Instead, use pypa/build, pypa/installer or other
+[0.927s]         standards-based tools.
+[0.927s] 
+[0.928s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.928s]         ********************************************************************************
+[0.928s] 
+[0.928s] !!
+[0.928s]   self.initialize_options()
+[0.930s] running install_lib
+[0.942s] running install_data
+[0.953s] copying resource/cv_basics -> /home/jonathantio/cv_test/install/cv_basics/share/ament_index/resource_index/packages
+[0.953s] copying package.xml -> /home/jonathantio/cv_test/install/cv_basics/share/cv_basics
+[0.953s] running install_egg_info
+[0.965s] removing '/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info' (and everything under it)
+[0.965s] Copying ../../build/cv_basics/cv_basics.egg-info to /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info
+[0.966s] running install_scripts
+[1.073s] Installing img_publisher script to /home/jonathantio/cv_test/install/cv_basics/lib/cv_basics
+[1.073s] Installing img_subscriber script to /home/jonathantio/cv_test/install/cv_basics/lib/cv_basics
+[1.073s] writing list of installed files to '/home/jonathantio/cv_test/build/cv_basics/install.log'
+[1.103s] Invoked command in '/home/jonathantio/cv_test/src/cv_basics' returned '0': PYTHONPATH=/home/jonathantio/cv_test/build/cv_basics/prefix_override:/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/jonathantio/cv_test/build/cv_basics/build install --record /home/jonathantio/cv_test/build/cv_basics/install.log --single-version-externally-managed

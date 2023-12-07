@@ -1,0 +1,25 @@
+[0.532s] Invoking command in '/home/arms/ros2_ws/src/learning_tf2_py': CMAKE_PREFIX_PATH=/home/arms/ros2_ws/install/turtlesim:/home/arms/ros2_ws/install/yolov8_msgs:/home/arms/ros2_ws/install/yolobot_recognition:/home/arms/ros2_ws/install/yolobot_gazebo:/home/arms/ros2_ws/install/yolobot_description:/home/arms/ros2_ws/install/yolobot_control:/home/arms/ros2_ws/install/my_interfaces:/home/arms/ros2_ws/install/action_tutorials_interfaces:/home/arms/turtlebot3_ws/install/turtlebot3_simulations:/home/arms/turtlebot3_ws/install/turtlebot3_gazebo:/home/arms/turtlebot3_ws/install/turtlebot3_fake_node:/home/arms/install/turtlesim:/home/arms/install/my_interfaces LD_LIBRARY_PATH=/home/arms/ros2_ws/install/turtlesim/lib:/home/arms/ros2_ws/install/yolov8_msgs/lib:/home/arms/ros2_ws/install/my_interfaces/lib:/home/arms/ros2_ws/install/action_tutorials_interfaces/lib:/home/arms/install/turtlesim/lib:/home/arms/install/my_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/arms/ros2_ws/build/learning_tf2_py/prefix_override:/home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf2_py build --build-base /home/arms/ros2_ws/build/learning_tf2_py/build install --record /home/arms/ros2_ws/build/learning_tf2_py/install.log --single-version-externally-managed
+[0.665s] running egg_info
+[0.665s] writing ../../build/learning_tf2_py/learning_tf2_py.egg-info/PKG-INFO
+[0.665s] writing dependency_links to ../../build/learning_tf2_py/learning_tf2_py.egg-info/dependency_links.txt
+[0.665s] writing entry points to ../../build/learning_tf2_py/learning_tf2_py.egg-info/entry_points.txt
+[0.666s] writing requirements to ../../build/learning_tf2_py/learning_tf2_py.egg-info/requires.txt
+[0.666s] writing top-level names to ../../build/learning_tf2_py/learning_tf2_py.egg-info/top_level.txt
+[0.666s] reading manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.667s] writing manifest file '../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.667s] running build
+[0.667s] running build_py
+[0.667s] running install
+[0.667s] running install_lib
+[0.668s] running install_data
+[0.668s] running install_egg_info
+[0.669s] removing '/home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.669s] Copying ../../build/learning_tf2_py/learning_tf2_py.egg-info to /home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py-0.0.0-py3.10.egg-info
+[0.669s] running install_scripts
+[0.681s] Installing static_turtle_tf2_broadcaster script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.681s] Installing turtle_tf2_broadcaster script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.681s] Installing turtle_tf2_constant_dist script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.681s] Installing turtle_tf2_controller script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.681s] Installing turtle_tf2_listener script to /home/arms/ros2_ws/install/learning_tf2_py/lib/learning_tf2_py
+[0.681s] writing list of installed files to '/home/arms/ros2_ws/build/learning_tf2_py/install.log'
+[0.696s] Invoked command in '/home/arms/ros2_ws/src/learning_tf2_py' returned '0': CMAKE_PREFIX_PATH=/home/arms/ros2_ws/install/turtlesim:/home/arms/ros2_ws/install/yolov8_msgs:/home/arms/ros2_ws/install/yolobot_recognition:/home/arms/ros2_ws/install/yolobot_gazebo:/home/arms/ros2_ws/install/yolobot_description:/home/arms/ros2_ws/install/yolobot_control:/home/arms/ros2_ws/install/my_interfaces:/home/arms/ros2_ws/install/action_tutorials_interfaces:/home/arms/turtlebot3_ws/install/turtlebot3_simulations:/home/arms/turtlebot3_ws/install/turtlebot3_gazebo:/home/arms/turtlebot3_ws/install/turtlebot3_fake_node:/home/arms/install/turtlesim:/home/arms/install/my_interfaces LD_LIBRARY_PATH=/home/arms/ros2_ws/install/turtlesim/lib:/home/arms/ros2_ws/install/yolov8_msgs/lib:/home/arms/ros2_ws/install/my_interfaces/lib:/home/arms/ros2_ws/install/action_tutorials_interfaces/lib:/home/arms/install/turtlesim/lib:/home/arms/install/my_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/arms/ros2_ws/build/learning_tf2_py/prefix_override:/home/arms/ros2_ws/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_tf2_py build --build-base /home/arms/ros2_ws/build/learning_tf2_py/build install --record /home/arms/ros2_ws/build/learning_tf2_py/install.log --single-version-externally-managed

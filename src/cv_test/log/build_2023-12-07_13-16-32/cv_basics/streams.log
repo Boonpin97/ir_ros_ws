@@ -1,0 +1,44 @@
+[1.858s] Invoking command in '/home/jonathantio/cv_test/src/cv_basics': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jonathantio/cv_test/build/cv_basics/prefix_override:/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/jonathantio/cv_test/build/cv_basics/build install --record /home/jonathantio/cv_test/build/cv_basics/install.log --single-version-externally-managed
+[1.996s] running egg_info
+[2.003s] writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO
+[2.003s] writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt
+[2.003s] writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt
+[2.003s] writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt
+[2.004s] writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt
+[2.019s] reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[2.032s] writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[2.032s] running build
+[2.033s] running build_py
+[2.033s] copying cv_basics/webcam_sub.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics
+[2.033s] copying cv_basics/webcam_pub.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics
+[2.033s] copying cv_basics/__init__.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics
+[2.033s] running install
+[2.034s] /home/jonathantio/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[2.034s] !!
+[2.034s] 
+[2.034s]         ********************************************************************************
+[2.034s]         Please avoid running ``setup.py`` directly.
+[2.035s]         Instead, use pypa/build, pypa/installer or other
+[2.035s]         standards-based tools.
+[2.035s] 
+[2.035s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[2.035s]         ********************************************************************************
+[2.035s] 
+[2.035s] !!
+[2.035s]   self.initialize_options()
+[2.038s] running install_lib
+[2.045s] copying /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics/webcam_sub.py -> /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics
+[2.045s] copying /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics/webcam_pub.py -> /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics
+[2.046s] byte-compiling /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics/webcam_sub.py to webcam_sub.cpython-310.pyc
+[2.046s] byte-compiling /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics/webcam_pub.py to webcam_pub.cpython-310.pyc
+[2.046s] running install_data
+[2.053s] copying resource/cv_basics -> /home/jonathantio/cv_test/install/cv_basics/share/ament_index/resource_index/packages
+[2.053s] copying package.xml -> /home/jonathantio/cv_test/install/cv_basics/share/cv_basics
+[2.054s] running install_egg_info
+[2.061s] removing '/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info' (and everything under it)
+[2.061s] Copying ../../build/cv_basics/cv_basics.egg-info to /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info
+[2.063s] running install_scripts
+[2.139s] Installing img_publisher script to /home/jonathantio/cv_test/install/cv_basics/lib/cv_basics
+[2.139s] Installing img_subscriber script to /home/jonathantio/cv_test/install/cv_basics/lib/cv_basics
+[2.139s] writing list of installed files to '/home/jonathantio/cv_test/build/cv_basics/install.log'
+[2.171s] Invoked command in '/home/jonathantio/cv_test/src/cv_basics' returned '0': PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jonathantio/cv_test/build/cv_basics/prefix_override:/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/jonathantio/cv_test/build/cv_basics/build install --record /home/jonathantio/cv_test/build/cv_basics/install.log --single-version-externally-managed

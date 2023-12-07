@@ -1,0 +1,26 @@
+[1.353s] Invoking command in '/home/arms/ros2_ws/src/cv_test/src/cv_basics': PYTHONPATH=/home/arms/ros2_ws/build/cv_basics/prefix_override:/home/arms/ros2_ws/install/cv_basics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/cv_basics build --build-base /home/arms/ros2_ws/build/cv_basics/build install --record /home/arms/ros2_ws/build/cv_basics/install.log --single-version-externally-managed
+[1.521s] running egg_info
+[1.521s] writing ../../../../build/cv_basics/cv_basics.egg-info/PKG-INFO
+[1.522s] writing dependency_links to ../../../../build/cv_basics/cv_basics.egg-info/dependency_links.txt
+[1.522s] writing entry points to ../../../../build/cv_basics/cv_basics.egg-info/entry_points.txt
+[1.522s] writing requirements to ../../../../build/cv_basics/cv_basics.egg-info/requires.txt
+[1.522s] writing top-level names to ../../../../build/cv_basics/cv_basics.egg-info/top_level.txt
+[1.523s] reading manifest file '../../../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[1.524s] writing manifest file '../../../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[1.525s] running build
+[1.525s] running build_py
+[1.525s] copying cv_basics/webcam_sub.py -> /home/arms/ros2_ws/build/cv_basics/build/lib/cv_basics
+[1.526s] running install
+[1.526s] running install_lib
+[1.526s] copying /home/arms/ros2_ws/build/cv_basics/build/lib/cv_basics/webcam_sub.py -> /home/arms/ros2_ws/install/cv_basics/lib/python3.10/site-packages/cv_basics
+[1.527s] byte-compiling /home/arms/ros2_ws/install/cv_basics/lib/python3.10/site-packages/cv_basics/webcam_sub.py to webcam_sub.cpython-310.pyc
+[1.527s] Sorry: IndentationError: unexpected indent (webcam_sub.py, line 16)
+[1.527s] running install_data
+[1.527s] running install_egg_info
+[1.527s] removing '/home/arms/ros2_ws/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info' (and everything under it)
+[1.527s] Copying ../../../../build/cv_basics/cv_basics.egg-info to /home/arms/ros2_ws/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info
+[1.528s] running install_scripts
+[1.541s] Installing img_publisher script to /home/arms/ros2_ws/install/cv_basics/lib/cv_basics
+[1.542s] Installing img_subscriber script to /home/arms/ros2_ws/install/cv_basics/lib/cv_basics
+[1.543s] writing list of installed files to '/home/arms/ros2_ws/build/cv_basics/install.log'
+[1.656s] Invoked command in '/home/arms/ros2_ws/src/cv_test/src/cv_basics' returned '0': PYTHONPATH=/home/arms/ros2_ws/build/cv_basics/prefix_override:/home/arms/ros2_ws/install/cv_basics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/cv_basics build --build-base /home/arms/ros2_ws/build/cv_basics/build install --record /home/arms/ros2_ws/build/cv_basics/install.log --single-version-externally-managed

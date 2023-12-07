@@ -1,0 +1,9 @@
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/uninstall.dir
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/yolobot_description_uninstall.dir
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/test.dir
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/edit_cache.dir
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/rebuild_cache.dir
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/list_install_components.dir
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/install.dir
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/install/local.dir
+/home/arms/ros2_ws/build/yolobot_description/CMakeFiles/install/strip.dir

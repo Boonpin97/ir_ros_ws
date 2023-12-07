@@ -1,0 +1,219 @@
+[0.970s] Invoking command in '/home/arms/ros2_ws/build/my_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/my_interfaces -- -j20 -l20
+[1.901s] [  1%] Built target my_interfaces__cpp
+[1.901s] [ 12%] Built target my_interfaces__rosidl_generator_c
+[1.901s] [ 12%] Built target ament_cmake_python_copy_my_interfaces
+[1.901s] [ 23%] Built target my_interfaces__rosidl_typesupport_introspection_cpp
+[1.902s] [ 34%] Built target my_interfaces__rosidl_typesupport_cpp
+[1.902s] [ 45%] Built target my_interfaces__rosidl_typesupport_c
+[1.902s] [ 56%] Built target my_interfaces__rosidl_typesupport_introspection_c
+[1.902s] [ 67%] Built target my_interfaces__rosidl_typesupport_fastrtps_cpp
+[1.903s] [ 78%] Built target my_interfaces__rosidl_typesupport_fastrtps_c
+[1.903s] [ 78%] Built target my_interfaces
+[1.903s] [ 80%] Built target my_interfaces__py
+[1.903s] [ 89%] Built target my_interfaces__rosidl_generator_py
+[1.904s] [ 92%] Built target my_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.904s] [ 96%] Built target my_interfaces__rosidl_typesupport_c__pyext
+[1.904s] [100%] Built target my_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.904s] running egg_info
+[1.905s] writing my_interfaces.egg-info/PKG-INFO
+[1.905s] writing dependency_links to my_interfaces.egg-info/dependency_links.txt
+[1.905s] writing top-level names to my_interfaces.egg-info/top_level.txt
+[1.905s] reading manifest file 'my_interfaces.egg-info/SOURCES.txt'
+[1.905s] writing manifest file 'my_interfaces.egg-info/SOURCES.txt'
+[1.906s] [100%] Built target ament_cmake_python_build_my_interfaces_egg
+[1.910s] Invoked command in '/home/arms/ros2_ws/build/my_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/my_interfaces -- -j20 -l20
+[2.609s] Invoking command in '/home/arms/ros2_ws/build/my_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/my_interfaces
+[2.940s] -- Install configuration: ""
+[2.940s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/ament_index/resource_index/rosidl_interfaces/my_interfaces
+[2.940s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces
+[2.940s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/time_req.h
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__functions.h
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__type_support.h
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__type_support.h
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__struct.h
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__functions.c
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__struct.h
+[2.941s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__functions.c
+[2.942s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__functions.h
+[2.942s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/add_three_ints.h
+[2.942s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg
+[2.942s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/sphere.h
+[2.942s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/num.h
+[2.942s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail
+[2.942s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__functions.c
+[2.942s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__functions.h
+[2.943s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__struct.h
+[2.943s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__type_support.h
+[2.943s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__functions.h
+[2.943s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__functions.c
+[2.943s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__struct.h
+[2.943s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__type_support.h
+[2.943s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/rosidl_generator_c__visibility_control.h
+[2.943s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/environment/library_path.sh
+[2.944s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/environment/library_path.dsv
+[2.944s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/lib/libmy_interfaces__rosidl_generator_c.so
+[2.944s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces
+[2.944s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv
+[2.944s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail
+[2.944s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_c.h
+[2.961s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__rosidl_typesupport_fastrtps_c.h
+[2.961s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__rosidl_typesupport_fastrtps_c.h
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_c.h
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/lib/libmy_interfaces__rosidl_typesupport_fastrtps_c.so
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/add_three_ints.hpp
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/time_req.hpp
+[2.962s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__traits.hpp
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__struct.hpp
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__builder.hpp
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__builder.hpp
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__traits.hpp
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__struct.hpp
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/num.hpp
+[2.963s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/sphere.hpp
+[2.964s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail
+[2.964s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__builder.hpp
+[2.964s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__struct.hpp
+[2.964s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__traits.hpp
+[2.964s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__traits.hpp
+[2.964s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__builder.hpp
+[2.964s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__struct.hpp
+[2.964s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__rosidl_typesupport_fastrtps_cpp.hpp
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/dds_fastrtps
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_cpp.hpp
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/dds_fastrtps
+[2.965s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__rosidl_typesupport_fastrtps_cpp.hpp
+[2.966s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/lib/libmy_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[2.966s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces
+[2.966s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv
+[2.966s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail
+[2.966s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__type_support.c
+[2.966s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__rosidl_typesupport_introspection_c.h
+[2.966s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__rosidl_typesupport_introspection_c.h
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__type_support.c
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__type_support.c
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__type_support.c
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__rosidl_typesupport_introspection_c.h
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__rosidl_typesupport_introspection_c.h
+[2.967s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/lib/libmy_interfaces__rosidl_typesupport_introspection_c.so
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/lib/libmy_interfaces__rosidl_typesupport_c.so
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__rosidl_typesupport_introspection_cpp.hpp
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/add_three_ints__type_support.cpp
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__rosidl_typesupport_introspection_cpp.hpp
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/srv/detail/time_req__type_support.cpp
+[2.968s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__type_support.cpp
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/sphere__rosidl_typesupport_introspection_cpp.hpp
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__rosidl_typesupport_introspection_cpp.hpp
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/include/my_interfaces/my_interfaces/msg/detail/num__type_support.cpp
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/lib/libmy_interfaces__rosidl_typesupport_introspection_cpp.so
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/lib/libmy_interfaces__rosidl_typesupport_cpp.so
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/environment/pythonpath.sh
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/environment/pythonpath.dsv
+[2.969s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces-0.0.0-py3.10.egg-info
+[2.969s] -- Installing: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.970s] -- Installing: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.970s] -- Installing: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[2.970s] -- Installing: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[2.970s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces
+[2.970s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/my_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.970s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/my_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.970s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/_my_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[2.970s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/my_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.970s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/__init__.py
+[2.971s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/srv
+[2.971s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/srv/_add_three_ints_s.c
+[2.971s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/srv/__init__.py
+[2.971s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/srv/_time_req.py
+[2.971s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/srv/_time_req_s.c
+[2.971s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/srv/_add_three_ints.py
+[2.971s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/_my_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.971s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/libmy_interfaces__rosidl_generator_py.so
+[2.972s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/_my_interfaces_s.ep.rosidl_typesupport_c.c
+[2.972s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/msg
+[2.972s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/msg/_sphere_s.c
+[2.972s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/msg/_num.py
+[2.972s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/msg/__init__.py
+[2.982s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/msg/_sphere.py
+[2.982s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/msg/_num_s.c
+[2.982s] Listing '/home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces'...
+[2.982s] Listing '/home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/msg'...
+[2.982s] Listing '/home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/srv'...
+[2.982s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/my_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/my_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/local/lib/python3.10/dist-packages/my_interfaces/my_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/lib/libmy_interfaces__rosidl_generator_py.so
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/msg/Num.idl
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/msg/Sphere.idl
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/srv/AddThreeInts.idl
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/srv/TimeReq.idl
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/msg/Num.msg
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/msg/Sphere.msg
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/srv/AddThreeInts.srv
+[2.983s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/srv/AddThreeInts_Request.msg
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/srv/AddThreeInts_Response.msg
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/srv/TimeReq.srv
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/srv/TimeReq_Request.msg
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/srv/TimeReq_Response.msg
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/ament_index/resource_index/package_run_dependencies/my_interfaces
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/ament_index/resource_index/parent_prefix_path/my_interfaces
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/environment/ament_prefix_path.sh
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/environment/ament_prefix_path.dsv
+[2.984s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/environment/path.sh
+[2.985s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/environment/path.dsv
+[2.985s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/local_setup.bash
+[2.985s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/local_setup.sh
+[2.985s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/local_setup.zsh
+[2.985s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/local_setup.dsv
+[2.985s] -- Installing: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/package.dsv
+[2.986s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/ament_index/resource_index/packages/my_interfaces
+[2.987s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_generator_cExport.cmake
+[2.989s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_generator_cExport-noconfig.cmake
+[2.990s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[2.991s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.992s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_generator_cppExport.cmake
+[2.992s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.992s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.994s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[2.996s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.997s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfaces__rosidl_typesupport_cExport.cmake
+[2.998s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[2.998s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[2.999s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.001s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfaces__rosidl_typesupport_cppExport.cmake
+[3.002s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[3.010s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_generator_pyExport.cmake
+[3.013s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/export_my_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[3.013s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/rosidl_cmake-extras.cmake
+[3.013s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.013s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.013s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[3.013s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[3.014s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.014s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.014s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfacesConfig.cmake
+[3.014s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/cmake/my_interfacesConfig-version.cmake
+[3.014s] -- Up-to-date: /home/arms/ros2_ws/install/my_interfaces/share/my_interfaces/package.xml
+[3.256s] Invoked command in '/home/arms/ros2_ws/build/my_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/my_interfaces

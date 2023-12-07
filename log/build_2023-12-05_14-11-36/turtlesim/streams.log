@@ -1,0 +1,28 @@
+[0.416s] Invoking command in '/home/arms/ros2_ws/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/turtlesim -- -j20 -l20
+[0.669s] [  1%] Built target turtlesim__cpp
+[0.669s] [ 11%] Built target turtlesim__rosidl_generator_c
+[0.669s] [ 11%] Built target ament_cmake_python_copy_turtlesim
+[0.669s] [ 21%] Built target turtlesim__rosidl_typesupport_cpp
+[0.669s] [ 31%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[0.669s] [ 41%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[0.669s] [ 61%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[0.669s] [ 61%] Built target turtlesim__rosidl_typesupport_c
+[0.669s] [ 71%] Built target turtlesim__rosidl_typesupport_introspection_c
+[0.670s] [ 73%] Built target mimic
+[0.670s] [ 75%] Built target draw_square
+[0.670s] [ 76%] Built target turtlesim
+[0.670s] [ 79%] Built target turtle_teleop_key
+[0.670s] [ 83%] Built target turtlesim_node
+[0.670s] [ 84%] Built target turtlesim__py
+[0.670s] [ 93%] Built target turtlesim__rosidl_generator_py
+[0.670s] [ 95%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[0.670s] [ 97%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[0.670s] [100%] Built target turtlesim__rosidl_typesupport_c__pyext
+[0.670s] running egg_info
+[0.670s] writing turtlesim.egg-info/PKG-INFO
+[0.670s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[0.670s] writing top-level names to turtlesim.egg-info/top_level.txt
+[0.670s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.670s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.670s] [100%] Built target ament_cmake_python_build_turtlesim_egg
+[0.677s] Invoked command in '/home/arms/ros2_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/turtlesim -- -j20 -l20

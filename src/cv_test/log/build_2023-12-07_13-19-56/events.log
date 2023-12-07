@@ -1,0 +1,56 @@
+[0.000000] (-) TimerEvent: {}
+[0.000618] (cv_basics) JobQueued: {'identifier': 'cv_basics', 'dependencies': OrderedDict()}
+[0.000972] (cv_basics) JobStarted: {'identifier': 'cv_basics'}
+[0.099591] (-) TimerEvent: {}
+[0.199896] (-) TimerEvent: {}
+[0.300244] (-) TimerEvent: {}
+[0.400610] (-) TimerEvent: {}
+[0.501005] (-) TimerEvent: {}
+[0.601410] (-) TimerEvent: {}
+[0.689683] (cv_basics) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/cv_basics', 'build', '--build-base', '/home/jonathantio/cv_test/build/cv_basics/build', 'install', '--record', '/home/jonathantio/cv_test/build/cv_basics/install.log', '--single-version-externally-managed'], 'cwd': '/home/jonathantio/cv_test/src/cv_basics', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_SG:en', 'USER': 'jonathantio', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/jonathantio', 'OLDPWD': '/home/jonathantio', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '1846', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'jonathantio', '_': '/home/jonathantio/.local/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'jonathantio', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/humble/bin:/home/jonathantio/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/jonathantio-Lenovo-Legion-5-15ARH05H:@/tmp/.ICE-unix/1822,unix/jonathantio-Lenovo-Legion-5-15ARH05H:/tmp/.ICE-unix/1822', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/4ed50612_2550_4f0b_8aff_e5270858c084', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.109', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/jonathantio/cv_test/build/cv_basics', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/jonathantio/cv_test/build/cv_basics/prefix_override:/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[0.701501] (-) TimerEvent: {}
+[0.801862] (-) TimerEvent: {}
+[0.888808] (cv_basics) StdoutLine: {'line': b'running egg_info\n'}
+[0.900545] (cv_basics) StdoutLine: {'line': b'writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO\n'}
+[0.900884] (cv_basics) StdoutLine: {'line': b'writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt\n'}
+[0.901041] (cv_basics) StdoutLine: {'line': b'writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt\n'}
+[0.901178] (cv_basics) StdoutLine: {'line': b'writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt\n'}
+[0.901330] (cv_basics) StdoutLine: {'line': b'writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt\n'}
+[0.901946] (-) TimerEvent: {}
+[0.924869] (cv_basics) StdoutLine: {'line': b"reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'\n"}
+[0.925576] (cv_basics) StdoutLine: {'line': b"writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'\n"}
+[0.925888] (cv_basics) StdoutLine: {'line': b'running build\n'}
+[0.926153] (cv_basics) StdoutLine: {'line': b'running build_py\n'}
+[0.926358] (cv_basics) StdoutLine: {'line': b'copying cv_basics/webcam_sub.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics\n'}
+[0.926552] (cv_basics) StdoutLine: {'line': b'copying cv_basics/webcam_pub.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics\n'}
+[0.926936] (cv_basics) StdoutLine: {'line': b'copying cv_basics/__init__.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics\n'}
+[0.927129] (cv_basics) StdoutLine: {'line': b'running install\n'}
+[0.927295] (cv_basics) StderrLine: {'line': b'/home/jonathantio/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.\n'}
+[0.927505] (cv_basics) StderrLine: {'line': b'!!\n'}
+[0.927663] (cv_basics) StderrLine: {'line': b'\n'}
+[0.927815] (cv_basics) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.927967] (cv_basics) StderrLine: {'line': b'        Please avoid running ``setup.py`` directly.\n'}
+[0.928152] (cv_basics) StderrLine: {'line': b'        Instead, use pypa/build, pypa/installer or other\n'}
+[0.928314] (cv_basics) StderrLine: {'line': b'        standards-based tools.\n'}
+[0.928470] (cv_basics) StderrLine: {'line': b'\n'}
+[0.928618] (cv_basics) StderrLine: {'line': b'        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.\n'}
+[0.928783] (cv_basics) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.928937] (cv_basics) StderrLine: {'line': b'\n'}
+[0.929087] (cv_basics) StderrLine: {'line': b'!!\n'}
+[0.929237] (cv_basics) StderrLine: {'line': b'  self.initialize_options()\n'}
+[0.931117] (cv_basics) StdoutLine: {'line': b'running install_lib\n'}
+[0.942782] (cv_basics) StdoutLine: {'line': b'running install_data\n'}
+[0.953956] (cv_basics) StdoutLine: {'line': b'copying resource/cv_basics -> /home/jonathantio/cv_test/install/cv_basics/share/ament_index/resource_index/packages\n'}
+[0.954206] (cv_basics) StdoutLine: {'line': b'copying package.xml -> /home/jonathantio/cv_test/install/cv_basics/share/cv_basics\n'}
+[0.954374] (cv_basics) StdoutLine: {'line': b'running install_egg_info\n'}
+[0.965697] (cv_basics) StdoutLine: {'line': b"removing '/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[0.965982] (cv_basics) StdoutLine: {'line': b'Copying ../../build/cv_basics/cv_basics.egg-info to /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info\n'}
+[0.966636] (cv_basics) StdoutLine: {'line': b'running install_scripts\n'}
+[1.002096] (-) TimerEvent: {}
+[1.073576] (cv_basics) StdoutLine: {'line': b'Installing img_publisher script to /home/jonathantio/cv_test/install/cv_basics/lib/cv_basics\n'}
+[1.074001] (cv_basics) StdoutLine: {'line': b'Installing img_subscriber script to /home/jonathantio/cv_test/install/cv_basics/lib/cv_basics\n'}
+[1.074179] (cv_basics) StdoutLine: {'line': b"writing list of installed files to '/home/jonathantio/cv_test/build/cv_basics/install.log'\n"}
+[1.102251] (-) TimerEvent: {}
+[1.103623] (cv_basics) CommandEnded: {'returncode': 0}
+[1.198749] (cv_basics) JobEnded: {'identifier': 'cv_basics', 'rc': 0}
+[1.199632] (-) EventReactorShutdown: {}

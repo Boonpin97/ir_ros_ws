@@ -1,0 +1,70 @@
+[0.000000] (-) TimerEvent: {}
+[0.000132] (cv_basics) JobQueued: {'identifier': 'cv_basics', 'dependencies': OrderedDict()}
+[0.000724] (cv_basics) JobStarted: {'identifier': 'cv_basics'}
+[0.099851] (-) TimerEvent: {}
+[0.200194] (-) TimerEvent: {}
+[0.300426] (-) TimerEvent: {}
+[0.400677] (-) TimerEvent: {}
+[0.501010] (-) TimerEvent: {}
+[0.601433] (-) TimerEvent: {}
+[0.702028] (-) TimerEvent: {}
+[0.802511] (-) TimerEvent: {}
+[0.902922] (-) TimerEvent: {}
+[1.003328] (-) TimerEvent: {}
+[1.103993] (-) TimerEvent: {}
+[1.204953] (-) TimerEvent: {}
+[1.305329] (-) TimerEvent: {}
+[1.405740] (-) TimerEvent: {}
+[1.506188] (-) TimerEvent: {}
+[1.606681] (-) TimerEvent: {}
+[1.706967] (-) TimerEvent: {}
+[1.807243] (-) TimerEvent: {}
+[1.855691] (cv_basics) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/cv_basics', 'build', '--build-base', '/home/jonathantio/cv_test/build/cv_basics/build', 'install', '--record', '/home/jonathantio/cv_test/build/cv_basics/install.log', '--single-version-externally-managed'], 'cwd': '/home/jonathantio/cv_test/src/cv_basics', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_SG:en', 'USER': 'jonathantio', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'HOME': '/home/jonathantio', 'OLDPWD': '/home/jonathantio/intelligentrobotics', 'DESKTOP_SESSION': 'ubuntu', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'PS1': '(venv) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$', 'SYSTEMD_EXEC_PID': '2723', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'jonathantio', '_': '/home/jonathantio/.local/bin/colcon', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'jonathantio', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'WINDOWPATH': '2', 'PATH': '/home/jonathantio/intelligentrobotics/venv/bin:/home/jonathantio/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/jonathantio-Lenovo-Legion-5-15ARH05H:@/tmp/.ICE-unix/1822,unix/jonathantio-Lenovo-Legion-5-15ARH05H:/tmp/.ICE-unix/1822', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/b4b0434f_d5a1_465f_89e1_75bb3d008e7c', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'VIRTUAL_ENV_PROMPT': 'venv', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.109', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'VIRTUAL_ENV': '/home/jonathantio/intelligentrobotics/venv', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/jonathantio/cv_test/build/cv_basics', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'COLCON': '1', 'VTE_VERSION': '6800', 'PYTHONPATH': '/home/jonathantio/cv_test/build/cv_basics/prefix_override:/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages:'}, 'shell': False}
+[1.907365] (-) TimerEvent: {}
+[1.996418] (cv_basics) StdoutLine: {'line': b'running egg_info\n'}
+[2.003216] (cv_basics) StdoutLine: {'line': b'writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO\n'}
+[2.003674] (cv_basics) StdoutLine: {'line': b'writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt\n'}
+[2.003905] (cv_basics) StdoutLine: {'line': b'writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt\n'}
+[2.004079] (cv_basics) StdoutLine: {'line': b'writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt\n'}
+[2.004225] (cv_basics) StdoutLine: {'line': b'writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt\n'}
+[2.007442] (-) TimerEvent: {}
+[2.019094] (cv_basics) StdoutLine: {'line': b"reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'\n"}
+[2.032845] (cv_basics) StdoutLine: {'line': b"writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'\n"}
+[2.033107] (cv_basics) StdoutLine: {'line': b'running build\n'}
+[2.033241] (cv_basics) StdoutLine: {'line': b'running build_py\n'}
+[2.033371] (cv_basics) StdoutLine: {'line': b'copying cv_basics/webcam_sub.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics\n'}
+[2.033493] (cv_basics) StdoutLine: {'line': b'copying cv_basics/webcam_pub.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics\n'}
+[2.033672] (cv_basics) StdoutLine: {'line': b'copying cv_basics/__init__.py -> /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics\n'}
+[2.033829] (cv_basics) StdoutLine: {'line': b'running install\n'}
+[2.034541] (cv_basics) StderrLine: {'line': b'/home/jonathantio/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.\n'}
+[2.034762] (cv_basics) StderrLine: {'line': b'!!\n'}
+[2.034880] (cv_basics) StderrLine: {'line': b'\n'}
+[2.034995] (cv_basics) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.035106] (cv_basics) StderrLine: {'line': b'        Please avoid running ``setup.py`` directly.\n'}
+[2.035217] (cv_basics) StderrLine: {'line': b'        Instead, use pypa/build, pypa/installer or other\n'}
+[2.035328] (cv_basics) StderrLine: {'line': b'        standards-based tools.\n'}
+[2.035438] (cv_basics) StderrLine: {'line': b'\n'}
+[2.035548] (cv_basics) StderrLine: {'line': b'        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.\n'}
+[2.035659] (cv_basics) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.035770] (cv_basics) StderrLine: {'line': b'\n'}
+[2.035881] (cv_basics) StderrLine: {'line': b'!!\n'}
+[2.035993] (cv_basics) StderrLine: {'line': b'  self.initialize_options()\n'}
+[2.038721] (cv_basics) StdoutLine: {'line': b'running install_lib\n'}
+[2.045656] (cv_basics) StdoutLine: {'line': b'copying /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics/webcam_sub.py -> /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics\n'}
+[2.045882] (cv_basics) StdoutLine: {'line': b'copying /home/jonathantio/cv_test/build/cv_basics/build/lib/cv_basics/webcam_pub.py -> /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics\n'}
+[2.046205] (cv_basics) StdoutLine: {'line': b'byte-compiling /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics/webcam_sub.py to webcam_sub.cpython-310.pyc\n'}
+[2.046639] (cv_basics) StdoutLine: {'line': b'byte-compiling /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics/webcam_pub.py to webcam_pub.cpython-310.pyc\n'}
+[2.047098] (cv_basics) StdoutLine: {'line': b'running install_data\n'}
+[2.053802] (cv_basics) StdoutLine: {'line': b'copying resource/cv_basics -> /home/jonathantio/cv_test/install/cv_basics/share/ament_index/resource_index/packages\n'}
+[2.054055] (cv_basics) StdoutLine: {'line': b'copying package.xml -> /home/jonathantio/cv_test/install/cv_basics/share/cv_basics\n'}
+[2.054181] (cv_basics) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.061378] (cv_basics) StdoutLine: {'line': b"removing '/home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[2.061676] (cv_basics) StdoutLine: {'line': b'Copying ../../build/cv_basics/cv_basics.egg-info to /home/jonathantio/cv_test/install/cv_basics/lib/python3.10/site-packages/cv_basics-0.0.0-py3.10.egg-info\n'}
+[2.063777] (cv_basics) StdoutLine: {'line': b'running install_scripts\n'}
+[2.107567] (-) TimerEvent: {}
+[2.139319] (cv_basics) StdoutLine: {'line': b'Installing img_publisher script to /home/jonathantio/cv_test/install/cv_basics/lib/cv_basics\n'}
+[2.139592] (cv_basics) StdoutLine: {'line': b'Installing img_subscriber script to /home/jonathantio/cv_test/install/cv_basics/lib/cv_basics\n'}
+[2.139959] (cv_basics) StdoutLine: {'line': b"writing list of installed files to '/home/jonathantio/cv_test/build/cv_basics/install.log'\n"}
+[2.171027] (cv_basics) CommandEnded: {'returncode': 0}
+[2.205162] (cv_basics) JobEnded: {'identifier': 'cv_basics', 'rc': 0}
+[2.205997] (-) EventReactorShutdown: {}

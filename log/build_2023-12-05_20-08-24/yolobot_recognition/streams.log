@@ -1,0 +1,33 @@
+[0.412s] Invoking command in '/home/arms/ros2_ws/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/yolobot_recognition -- -j20 -l20
+[0.441s] Invoked command in '/home/arms/ros2_ws/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/yolobot_recognition -- -j20 -l20
+[0.464s] Invoking command in '/home/arms/ros2_ws/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/yolobot_recognition
+[0.488s] -- Install configuration: ""
+[0.488s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts
+[0.489s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_control.py
+[0.489s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitignore
+[0.489s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8n.pt
+[0.489s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_subscriber.py
+[0.489s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~
+[0.489s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot
+[0.489s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot/src
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot/src/yolobot_recognition
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot/src/yolobot_recognition/scripts
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot/src/yolobot_recognition/scripts/yolov8n.pt
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_pt.py
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.dockerignore
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitattributes
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//launch
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//launch/launch_yolov8.launch.py
+[0.490s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//launch/control_launch_yolov8.launch.py
+[0.491s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_pt.py
+[0.491s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_subscriber.py
+[0.491s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_control.py
+[0.491s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/launch_yolov8.launch.py
+[0.491s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/control_launch_yolov8.launch.py
+[0.491s] [31mCMake Error at cmake_install.cmake:53 (file):
+[0.492s]   file INSTALL cannot find
+[0.492s]   "/home/arms/ros2_ws/src/yolobot/src/yolobot_recognition/launch/test.launch.py":
+[0.492s]   No such file or directory.
+[0.492s] 
+[0.492s] [0m
+[0.596s] Invoked command in '/home/arms/ros2_ws/build/yolobot_recognition' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/yolobot_recognition

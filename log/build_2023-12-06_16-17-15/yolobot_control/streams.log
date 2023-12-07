@@ -1,0 +1,28 @@
+[1.547s] Invoking command in '/home/arms/ros2_ws/build/yolobot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/yolobot_control -- -j20 -l20
+[1.621s] Invoked command in '/home/arms/ros2_ws/build/yolobot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/yolobot_control -- -j20 -l20
+[1.704s] Invoking command in '/home/arms/ros2_ws/build/yolobot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/yolobot_control
+[1.728s] -- Install configuration: ""
+[1.729s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control//scripts
+[1.729s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control//scripts/robot_control.py
+[1.729s] -- Installing: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control//scripts/follow_me.py
+[1.730s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control//launch
+[1.730s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control//launch/yolobot_control.launch.py
+[1.730s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/lib/yolobot_control/robot_control.py
+[1.730s] -- Installing: /home/arms/ros2_ws/install/yolobot_control/lib/yolobot_control/follow_me.py
+[1.731s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/lib/yolobot_control/yolobot_control.launch.py
+[1.731s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/ament_index/resource_index/package_run_dependencies/yolobot_control
+[1.731s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/ament_index/resource_index/parent_prefix_path/yolobot_control
+[1.732s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/environment/ament_prefix_path.sh
+[1.732s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/environment/ament_prefix_path.dsv
+[1.732s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/environment/path.sh
+[1.732s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/environment/path.dsv
+[1.732s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/local_setup.bash
+[1.733s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/local_setup.sh
+[1.734s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/local_setup.zsh
+[1.734s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/local_setup.dsv
+[1.735s] -- Installing: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/package.dsv
+[1.744s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/ament_index/resource_index/packages/yolobot_control
+[1.747s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/cmake/yolobot_controlConfig.cmake
+[1.748s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/cmake/yolobot_controlConfig-version.cmake
+[1.748s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_control/share/yolobot_control/package.xml
+[1.792s] Invoked command in '/home/arms/ros2_ws/build/yolobot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/yolobot_control

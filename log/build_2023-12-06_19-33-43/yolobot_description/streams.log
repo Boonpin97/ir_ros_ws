@@ -1,0 +1,26 @@
+[1.465s] Invoking command in '/home/arms/ros2_ws/build/yolobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/yolobot_description -- -j20 -l20
+[1.534s] Invoked command in '/home/arms/ros2_ws/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/yolobot_description -- -j20 -l20
+[1.638s] Invoking command in '/home/arms/ros2_ws/build/yolobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/yolobot_description
+[1.730s] -- Install configuration: ""
+[1.731s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description//launch
+[1.732s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description//launch/spawn_yolobot_launch.launch.py
+[1.733s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description//launch/spawn_yolobot.py
+[1.734s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description//robot
+[1.735s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description//robot/yolobot.urdf
+[1.736s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/lib/yolobot_description/spawn_yolobot.py
+[1.737s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/ament_index/resource_index/package_run_dependencies/yolobot_description
+[1.738s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/ament_index/resource_index/parent_prefix_path/yolobot_description
+[1.739s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/environment/ament_prefix_path.sh
+[1.740s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/environment/ament_prefix_path.dsv
+[1.740s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/environment/path.sh
+[1.740s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/environment/path.dsv
+[1.740s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/local_setup.bash
+[1.740s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/local_setup.sh
+[1.741s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/local_setup.zsh
+[1.741s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/local_setup.dsv
+[1.741s] -- Installing: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/package.dsv
+[1.741s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/ament_index/resource_index/packages/yolobot_description
+[1.741s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/cmake/yolobot_descriptionConfig.cmake
+[1.741s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/cmake/yolobot_descriptionConfig-version.cmake
+[1.741s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_description/share/yolobot_description/package.xml
+[2.161s] Invoked command in '/home/arms/ros2_ws/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/yolobot_description

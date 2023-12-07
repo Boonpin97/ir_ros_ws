@@ -1,0 +1,2 @@
+Invoking command in '/home/arms/ros2_ws/build/camera_calibration_parsers': /usr/bin/cmake /home/arms/ros2_ws/src/image_common/camera_calibration_parsers -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/arms/ros2_ws/install/camera_calibration_parsers
+Invoked command in '/home/arms/ros2_ws/build/camera_calibration_parsers' returned '1': /usr/bin/cmake /home/arms/ros2_ws/src/image_common/camera_calibration_parsers -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/arms/ros2_ws/install/camera_calibration_parsers

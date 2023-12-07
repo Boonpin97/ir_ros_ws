@@ -1,0 +1,42 @@
+[1.182s] Invoking command in '/home/arms/ros2_ws/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/yolobot_recognition -- -j20 -l20
+[1.270s] Invoked command in '/home/arms/ros2_ws/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --build /home/arms/ros2_ws/build/yolobot_recognition -- -j20 -l20
+[1.341s] Invoking command in '/home/arms/ros2_ws/build/yolobot_recognition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/yolobot_recognition
+[1.386s] -- Install configuration: ""
+[1.387s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts
+[1.387s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_control.py
+[1.387s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitignore
+[1.388s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8n.pt
+[1.388s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_subscriber.py
+[1.388s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~
+[1.388s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot
+[1.388s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot/src
+[1.389s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot/src/yolobot_recognition
+[1.389s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot/src/yolobot_recognition/scripts
+[1.389s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/~/yolobot/src/yolobot_recognition/scripts/yolov8n.pt
+[1.389s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_pt.py
+[1.390s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.dockerignore
+[1.390s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitattributes
+[1.390s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//launch
+[1.390s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//launch/launch_yolov8.launch.py
+[1.390s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition//launch/control_launch_yolov8.launch.py
+[1.391s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_pt.py
+[1.392s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_subscriber.py
+[1.393s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_control.py
+[1.396s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/launch_yolov8.launch.py
+[1.398s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/lib/yolobot_recognition/control_launch_yolov8.launch.py
+[1.398s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/ament_index/resource_index/package_run_dependencies/yolobot_recognition
+[1.400s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/ament_index/resource_index/parent_prefix_path/yolobot_recognition
+[1.400s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.sh
+[1.402s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.dsv
+[1.402s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/environment/path.sh
+[1.403s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/environment/path.dsv
+[1.404s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/local_setup.bash
+[1.405s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/local_setup.sh
+[1.406s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/local_setup.zsh
+[1.408s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/local_setup.dsv
+[1.410s] -- Installing: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/package.dsv
+[1.410s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/ament_index/resource_index/packages/yolobot_recognition
+[1.412s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig.cmake
+[1.414s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake
+[1.419s] -- Up-to-date: /home/arms/ros2_ws/install/yolobot_recognition/share/yolobot_recognition/package.xml
+[1.580s] Invoked command in '/home/arms/ros2_ws/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arms/ros2_ws/install/learning_tf2_py:/home/arms/ros2_ws/install/my_package:/home/arms/install/my_package:/opt/ros/humble /usr/bin/cmake --install /home/arms/ros2_ws/build/yolobot_recognition

@@ -1,0 +1,4 @@
+/home/arms/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:msg/Num.idl
+/home/arms/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:msg/Sphere.idl
+/home/arms/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:srv/AddThreeInts.idl
+/home/arms/ros2_ws/build/my_interfaces/rosidl_adapter/my_interfaces:srv/TimeReq.idl

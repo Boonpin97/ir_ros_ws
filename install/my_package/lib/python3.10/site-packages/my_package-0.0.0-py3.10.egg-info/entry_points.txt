@@ -1,0 +1,11 @@
+[console_scripts]
+client = my_package.add_three_ints_client:main
+client2 = my_package.time_request_client:main
+listener = my_package.subscriber_member_function:main
+listener2 = my_package.assignment_sub:main
+my_node = my_package.my_node:main
+server = my_package.add_three_ints_server:main
+server2 = my_package.time_request_server:main
+talker = my_package.publisher_member_function:main
+talker2 = my_package.assignment_pub:main
+
